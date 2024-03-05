@@ -5,6 +5,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Bloggie.Web.Controllers
 {
+
+    //Secondary Controller
     public class AdminTagsController : Controller
     {     
         
